@@ -73,6 +73,13 @@ VFood was developed as a practical project to consolidate knowledge in:
 
 ---
 
+## ▶ How to Run
+
+1. Install Java (JDK 17 or higher recommended)
+2. Download the VFood.jar file from Releases
+3. Run:
+   java -jar VFood.jar
+
 ## 👨‍💻 Author
 
 Vitor Gomes Santos
